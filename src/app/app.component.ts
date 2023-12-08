@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
+import { IgniteModule } from '@ignite/angular';
 
 @Component({
   selector: 'app-root',
